@@ -60,14 +60,14 @@
    }
    @keyframes moveup{
     0%{
-        top: -3rem;
+        top: -0rem;
         border-color: white;
         opacity: 0;
     }
 
  
     50%{
-        top: -7.5rem;
+        top: -6rem;
         border-color: white;
         opacity: 1;
     }
